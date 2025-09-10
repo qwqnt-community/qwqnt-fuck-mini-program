@@ -1,4 +1,4 @@
-import { findEvent } from "./findEventIndex.js";
+import { findEvent } from "./findEvent.js";
 import { checkChatType } from "./checkChatType.js";
 import { replaceArk } from "./replaceArk.js";
 
