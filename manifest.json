@@ -4,7 +4,7 @@
   "name": "F_ck-MiniProgram",
   "slug": "F_ck-MiniProgram",
   "description": "去你大爷的小程序",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "曦月",
@@ -12,6 +12,7 @@
     }
   ],
   "platform": ["win32", "linux", "darwin"],
+  "dependencies": ["ipc_interceptor"],
   "injects": {
     "main": "./dist/main.js"
   }

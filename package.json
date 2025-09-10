@@ -3,7 +3,7 @@
   "name": "f_ck-miniprogram",
   "main": "./dist/main.js",
   "description": "去你大爷的小程序",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "scripts": {
     "build": "node esbuild.config.mjs"
   },
@@ -17,8 +17,8 @@
   "qwqnt": {
     "name": "去你大爷的小程序",
     "dependencies": {
-      "ipc_interceptor": "^0.0.1",
-      "ipc_logger?": "^0.0.3"
+      "ipc_interceptor": "^1.0.0",
+      "ipc_logger?": "^1.0.1"
     }
   },
   "dependencies": {
