@@ -1,6 +1,6 @@
 {
   "$schema": "./plugin.schema.json",
-  "name": "f_ck-miniprogram",
+  "name": "qwqnt-fuck-mini-program",
   "main": "./dist/main.js",
   "description": "去你大爷的小程序",
   "version": "1.0.0",
